@@ -3,6 +3,10 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
+import numpy as np
+from keras.preprocessing.image import ImageDataGenerator
+
+'''
 from keras.callbacks import CSVLogger
 
 import numpy as np
@@ -36,6 +40,7 @@ def save_bottlebeck_features():
 
 	datagen = ImageDataGenerator(rescale=1. / 255)
 	'''
+'''
 	datagen = ImageDataGenerator(
 		rotation_range=40,
 		#width_shift_range=0.2,
@@ -45,7 +50,7 @@ def save_bottlebeck_features():
 	   # zoom_range=0.2,
 		horizontal_flip=True,
 		fill_mode='nearest')
-	'''
+
 
 	# build the VGG16 network
 	model = applications.VGG16(include_top=False, weights='imagenet')
@@ -110,3 +115,4 @@ def train_top_model():
 
 #save_bottlebeck_features()
 train_top_model()
+'''
