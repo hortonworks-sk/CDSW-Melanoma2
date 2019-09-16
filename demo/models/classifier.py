@@ -63,7 +63,7 @@ def save_bottlebeck_features():
 	np.save(open('bottleneck_features_train_demo.npy', 'w'),
 			bottleneck_features_train)
 	
-	print "Starting Create validation data>>>"
+	print("Starting Create validation data>>>")
 
 	generator = datagen.flow_from_directory(
 		validation_data_dir,
@@ -76,7 +76,7 @@ def save_bottlebeck_features():
 	np.save(open('bottleneck_features_validation_demo.npy', 'w'),
 			bottleneck_features_validation)
 
-	print "<<< Created Validation DATA >>>"
+	print("<<< Created Validation DATA >>>")
 	
 
 def train_top_model():
