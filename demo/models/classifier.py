@@ -12,6 +12,8 @@ from keras.layers import Dropout, Flatten, Dense
 from keras import applications
 from keras import optimizers
 
+os.chdir('/home/cdsw/demo/models')
+
 
 # dimensions of our images.
 img_width, img_height = 150, 150

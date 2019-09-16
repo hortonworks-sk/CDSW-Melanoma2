@@ -1,13 +1,13 @@
-os.chdir('/home/cdsw/demo/models')
+#os.chdir('/home/cdsw/demo/models')
 
-
-
+!pip2 install np_utils
 !pip2 install tensorflow
 !pip2 install keras
 !pip2 install sklearn
 !pip install scipy --upgrade
 !pip2 install wait
 
+!pip3 install np_utils
 !pip3 install tensorflow
 !pip3 install keras
 !pip3 install sklearn

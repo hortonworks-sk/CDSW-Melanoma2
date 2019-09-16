@@ -1,0 +1,8 @@
+.cache/*
+.conda/*
+.config/*
+.ipython/*
+.keras/*
+.local/*
+.oracle_jre_usage/*
+.viminfo/*
