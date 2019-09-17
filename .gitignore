@@ -6,3 +6,5 @@
 .local/*
 .oracle_jre_usage/*
 .viminfo/*
+.ssh/*
+.bash_history/*
