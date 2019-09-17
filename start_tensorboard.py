@@ -1,7 +1,7 @@
 import subprocess
 import wait
 
-print("Hi")
+print("Starting Tensorboard...")
 
 def tensorboard(fname):
     url = ("http://" + os.environ["CDSW_ENGINE_ID"] +
