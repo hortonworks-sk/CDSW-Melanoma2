@@ -9,9 +9,9 @@ def tensorboard(fname):
     tb = "/home/cdsw/.local/bin/tensorboard"
     FNULL = open(os.devnull, 'w')
     proc = subprocess.Popen([tb, "--logdir=%s" % fname,
-                             "--port=%s" % os.environ["CDSW_PUBLIC_PORT"]],
+                             "--port=%s" % os.environ["CDSW_READONLY_PORT"]],
                             stdout=FNULL, stderr=FNULL)
-    wait.tcp.open(int(os.environ["CDSW_PUBLIC_PORT"]))
+    wait.tcp.open(int(os.environ["CDSW_READONLY_PORT"]))
     return url, proc.pid
   
   
