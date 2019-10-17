@@ -115,7 +115,7 @@ history = model.fit_generator(
 		    validation_steps=nb_validation_samples // batch_size,
 		    verbose=2)
 
-model.save_weights(full_model_weights_path)
+#model.save_weights(full_model_weights_path)
 
 y_pred_keras = model.predict(validation_generator).ravel()
 fpr_keras, tpr_keras, thresholds_keras = roc_curve(y_test, y_pred_keras)
