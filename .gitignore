@@ -9,6 +9,6 @@
 .ssh/*
 .bash_history
 .viminfo
-.ipynb_checkpoints
-.jupyter
-.pip
+
+
+
