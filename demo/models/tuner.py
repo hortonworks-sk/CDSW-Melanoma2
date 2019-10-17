@@ -21,13 +21,16 @@ from keras.wrappers.scikit_learn import KerasClassifier
 
 # path to the model weights files.
 
+os.chdir('/home/cdsw/demo/models')
+
+
 full_model_weights_path = 'full_model.h5'
 top_model_weights_path = 'bottleneck_fc_model.h5'
 # dimensions of our images.
 img_width, img_height = 150, 150
 
-train_data_dir = '/demo/data/train'
-validation_data_dir = '/demo/data/test'
+train_data_dir = '../../demo/data/train'
+validation_data_dir = '../../demo/data/test'
 nb_train_samples = 200
 nb_validation_samples = 200
 epochs = 1
