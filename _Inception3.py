@@ -88,30 +88,7 @@ def plot_classifier_acc():
 plot_classifier_acc()
   
   
-def plot_classifier_loss():
 
-  fig, ax = plt.subplots(nrows=1, ncols=1)
-  #fig = plt.figure()
-  #ax = fig.add_subplot(1, 1, 1) # nrows, ncols, index
-
-  
-  #ax = plt.gca()
-  ax.set_facecolor('white') 
-  ax.set_xlabel('Epoch')
-  ax.set_ylabel('Loss')
-  ax.set_title('Complete Model Loss')
-  fig.set_facecolor('white') 
-  
-  plt.plot( 'epoch', 'loss', label="Loss", data=df_model, markersize=12, color='skyblue', linewidth=1)
-  plt.plot( 'epoch', 'val_loss', label="Validation Loss", data=df_model, markersize=12, color='blue', linewidth=1)
-
-  legend = plt.legend(loc="lower right", facecolor='white', framealpha=1)
-  
-  plt.show()
-  
-  
-
-plot_classifier_loss()
   
 
 cdsw.track_metric("Accuracy", 0.9)   

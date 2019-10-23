@@ -3,7 +3,7 @@ import subprocess
 import wait
 
 def runApp(): 
-   print "Starting Flask App"
+   print("Starting Flask App")
    python = "/usr/local/bin/python"  
    url = ("http://" + os.environ["CDSW_ENGINE_ID"] +
            ".consoles." + os.environ["CDSW_DOMAIN"])

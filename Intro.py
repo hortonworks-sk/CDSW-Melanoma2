@@ -10,7 +10,7 @@ print(host)
 from IPython.display import HTML
 
 
-bla = '<iframe width="900" height="2800" scrolling="no" frameborder="0" src="https://'+host+'"></iframe>'
+bla = '<iframe width="900" height="2800" scrolling="no" frameborder="0" src="http://'+host+'"></iframe>'
 bla = '\''+bla + '\''
 
 print(bla)
