@@ -28,7 +28,7 @@ validation_data_dir = '/demo/data/test'
 
 nb_train_samples = 200
 nb_validation_samples = 200
-epochs = 50
+epochs = 5
 batch_size = 1
 
 #csv_logger = CSVLogger(experiment_dir+'/classifier_training.log')

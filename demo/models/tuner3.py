@@ -106,6 +106,7 @@ csv_logger = CSVLogger('training.log')
 
 
 # fine-tune the model
+'''
 history = model.fit_generator(
 		    train_generator,
 		    steps_per_epoch=nb_train_samples // batch_size,
@@ -114,6 +115,7 @@ history = model.fit_generator(
 		    validation_data=validation_generator,
 		    validation_steps=nb_validation_samples // batch_size,
 		    verbose=2)
+'''
 
 #model.save_weights(full_model_weights_path)
 
@@ -121,7 +123,7 @@ history = model.fit_generator(
 
 
 # list all data in history
-print(history.history.keys())
+#print(history.history.keys())
 
 #pandas.DataFrame(history).to_csv("history.csv")
 

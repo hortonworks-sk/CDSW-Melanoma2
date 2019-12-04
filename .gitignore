@@ -9,6 +9,7 @@
 .ssh/*
 .bash_history
 .viminfo
-
+.pip
+demo/models/bottleneck_fc_model2.h5
 
 
