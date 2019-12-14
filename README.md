@@ -36,7 +36,7 @@ Story
 
 **2.**
 
-![](images/TensorboardGraphs.PNG)
+![](images/TensorboardGraphs.PNG =250x)
 
 &downarrow;
 
