@@ -1,10 +1,10 @@
-#Deep Learning In Medicine CDSW Demo 
+# Deep Learning In Medicine CDSW Demo 
 
 [skiaie@cloudera.com](mailto:skiaie@cloudera.com)
 
 
 
-###Demo Summary:
+### Demo Summary:
 
 - Use Case:  Diagnosing Melanoma
 - Broader Healthcare Applicability:
@@ -20,7 +20,7 @@
 
 
 
-###Story
+### Story
 
 1. Take open source images of skin lesions, and use those to build a classifier to detect malignant skin lesions
 2. Evaluate the performance of the model using TensorBoard, and matplotlib in CDSW
@@ -32,20 +32,20 @@
 
 ![](images/ISIC.PNG)
 
-# &downarrow;
+<p align="center"> # &downarrow; </p>
 
 **2.**
 
-![](images/TensorboardGraphs.PNG?s=20)
 
 <img src="images/TensorboardGraphs.PNG" width="600">
+
 
 &downarrow;
 
 
 **3,4.**
 
-<img src="images/TensorboardHistograms" width="600">
+<img src="images/TensorboardHistograms.PNG" width="600">
 
 
 <img src="images/Mobile.PNG" width="600">
