@@ -66,7 +66,7 @@
 
 The talk tracks here were made for brevity, and to focus on the specifics of this use case, so some of the boilerplate CML messaging is missing (e.g. some of the collaborative features).  The standard positioning statements can be added.
 
-### The deck is here:
+### Deck:
 
 - [De](https://rebrand.ly/nrdz1m)[ck](https://rebrand.ly/nrdz1m)
 
