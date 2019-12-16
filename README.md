@@ -160,7 +160,8 @@ The setup takes 5 minutes
 
 <p><br><p>
 
-<p align="center"><img src="images/Experiments-List.PNG" width="600"></p>
+<p align="center"><img src="images/Experiments.PNG" width="600"></p>
+
 
 <p><br><p>
 
@@ -168,14 +169,64 @@ The setup takes 5 minutes
 
 <p><br><p>
 
-<p align="center"><img src="images/Experiments.PNG" width="600"></p>
+<p align="center"><img src="images/Experiments-Inception.PNG" width="600"></p>
 
 <p><br><p>
 
 
+11. When these runs have completed, you should see the experiments listed as successful in the experiments view (as in the screenshot below)
+
+<p><br><p>
+
+<p align="center"><img src="images/Experiments-List.PNG" width="600"></p>
+
+<p><br><p>
+
+### Pre-Demo Setup
+
+Having the following tabs open, in a Chrome window, may be useful (these are the tabs open in the talk track video):
+
+<p><br><p>
 
 
+1.  The ISIC dataset homepage (https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
 
+<p><br><p>
 
+2.  The CDSW file view of the training data folder http://your-cdsw-host.and-domain.com/yourusername/melanoma-classification/files/demo/data/test/   (This is at the folder path:    demo > data > test  in CDSW)
 
+<p><br><p>
 
+<p align="center"><img src="images/DataFolders.PNG" width="600"></p>
+
+<p><br><p>
+
+3.  A Python 3 workbench session (loaded within the Classifying Melanoma project) pointing to the script to train the classifier  (This is at the path:    demo > models > classifier3.py, in CDSW)
+
+<p><br><p>
+
+<p align="center"><img src="images/CDSWSession_Classifier.PNG" width="600"></p>
+
+<p><br><p>
+
+4.  Tensorboard, with the Graph view 
+
+<p><br><p>
+
+<p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
+
+<p><br><p>
+
+5.  The new Projects http://your-cdsw-host.and-domain.com/projects/new
+
+<p><br><p>
+
+<p align="center"><img src="images/CDSWSession_Classifier.PNG" width="600"></p>
+
+<p><br><p>
+
+6.  The experiments page
+
+<p><br><p>
+
+7.   http://[your-cdsw-host.and-domain.com]/projects/new/[your-username]/mel2/runs admin/mel2/runs
