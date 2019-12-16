@@ -77,11 +77,12 @@ The talk tracks here were made for brevity, and to focus on the specifics of thi
 
 The setup takes 5 minutes
 
-<br><br>
+<br>
+
 
 1. In CDSW Go to Projects, and create a New Project
 
-<br><br>
+<br>
 
 <p align="center"><img src="images/CreateProject.PNG" width="600"></p>
 
