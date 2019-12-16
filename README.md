@@ -3,7 +3,8 @@
 
 [skiaie@cloudera.com](mailto:skiaie@cloudera.com)
 
-<BR><BR>
+<BR>
+
 
 ### Use Case & Industry Applicability
 
