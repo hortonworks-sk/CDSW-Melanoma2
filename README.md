@@ -1,7 +1,5 @@
 # Deep Learning In Medicine 
-## Classifying Melanoma 
-
-### on Cloudera Data Science Workbench, and Cloudera Machine Learning   
+## Classifying Melanoma on Cloudera Data Science Workbench, and Cloudera Machine Learning   
 
 [skiaie@cloudera.com](mailto:skiaie@cloudera.com)
 
