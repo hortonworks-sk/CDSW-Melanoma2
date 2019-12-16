@@ -31,8 +31,8 @@
 **1.**
 
 
-<p align="center"><b>1.</b>
-	<img src="images/ISIC.PNG" width="600"></p>
+<p align="center"><b>1.</b> </p>
+	<p align="center"><img src="images/ISIC.PNG" width="600"></p>
 
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
@@ -42,9 +42,6 @@
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
 
-
-
-<img src="images/TensorboardHistograms.PNG" width="600">
 
 <p align="center"><b>3.</b>
 	<img src="images/TensorboardHistograms.PNG" width="600"></p>
