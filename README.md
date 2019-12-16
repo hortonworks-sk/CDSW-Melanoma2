@@ -1,4 +1,5 @@
-# Deep Learning In Medicine CDSW Demo 
+# Deep Learning In Medicine 
+## CDSW Demo 
 
 [skiaie@cloudera.com](mailto:skiaie@cloudera.com)
 
