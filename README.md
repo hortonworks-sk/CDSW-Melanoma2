@@ -58,7 +58,7 @@
 
 <p><br><br><p>
 
-### The preliminary talk track videos are here:
+### Talk Tracks (Preliminary):
 
 - [Deck Talk Track](https://rebrand.ly/mpvdv4)
 - [Demo Talk Track](https://rebrand.ly/4269co)
