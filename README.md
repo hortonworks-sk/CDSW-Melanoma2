@@ -28,6 +28,7 @@
 4. Use the mobile app to determine if a patient needs critical attention from a physician (Note: in the demo we use a model deployed on a mobile device, for simplicity.  I.e. inference happens on the edge, using a low latency, MobileNet model.  The more likely choice for this use case would be to perform classification in batch or perform the inference centrally, using a model with superior performance characteristics (measured by AUC).
 
 
+<p><br><p>
 
 
 <p align="center"><b>1.</b> </p>
@@ -76,9 +77,11 @@ The talk tracks here were made for brevity, and to focus on the specifics of thi
 
 The setup takes 5 minutes
 
+<p><br><p>
+
 1. In CDSW Go to Projects, and create a New Project
 
-
+<p><br><p>
 
 <p align="center"><img src="images/CreateProject.PNG" width="600"></p>
 
@@ -100,17 +103,19 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
+<p><br><p>
 
 4. Navigate to the load-libraries.sh script, and run the script. This will load the libraries needed for the demo.
 
+<p><br><p>
 
-
-<p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
+<p align="center"><img src="images/OpenWorkBench2.PNG" width="600"></p>
 
 <p><br><p>
 
 5. Stop the Python 3 workbench session, and open another Python 3 session. This is required for some of the libraries to be available.
 
+<p><br><p>
 
 <p align="center"><img src="images/StopSession.PNG" width="600"></p>
 
@@ -118,13 +123,15 @@ The setup takes 5 minutes
 
 6. Navigate to the start_tensorboard.py script, and run this.
 
-
+<p><br><p>
 
 <p align="center"><img src="images/StartTensorboard.PNG" width="600"></p>
 
 <p><br><p>
 
 7. Check that the Tensorboard link is displaying in CDSW and that tensorboard is running, by clicking the tensorboard link
+
+<p><br><p>
 
 <p align="center"><img src="images/OpenTensorboard.PNG" width="600"></p>
 
@@ -133,6 +140,7 @@ The setup takes 5 minutes
 
 8. Click on the tensorboard tabs for Scalars , Graph and the Histograms , to check that these are displaying correctly (each are shown in order below)
 
+<p><br><p>
 
 <p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
 
@@ -149,6 +157,7 @@ The setup takes 5 minutes
 
 9. Navigate to experiments and click run experiment
 
+<p><br><p>
 
 <p align="center"><img src="images/Experiments-List.PNG" width="600"></p>
 
@@ -156,6 +165,7 @@ The setup takes 5 minutes
 
 10. Run experiments for the **_Inception3.py , and ** _VGG16.py**, scripts.  Use the python 3 kernel. No need to supply arguments for these. 
 
+<p><br><p>
 
 <p align="center"><img src="images/Experiments.PNG" width="600"></p>
 
