@@ -191,7 +191,6 @@ Having the following tabs open, in a Chrome window, may be useful (these are the
 
 1.  The ISIC dataset homepage (https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
 
-<p><br><p>
 
 2.  The CDSW file view of the training data folder http://your-cdsw-host.and-domain.com/yourusername/melanoma-classification/files/demo/data/test/   (This is at the folder path:    demo > data > test  in CDSW)
 
