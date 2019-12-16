@@ -37,21 +37,24 @@
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
 
+**2.** 
+
 <p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
 
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
 
+**3.**
 
-<p align="center"><b>3.</b>
-	<img src="images/TensorboardHistograms.PNG" width="600"></p>
+<p align="center"><b>3.</b></p>
+	<p align="center"><img src="images/TensorboardHistograms.PNG" width="600"></p>
 
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
 
 
-<p align="center"><b>4.</b>
-	<img src="images/Mobile.PNG" width="600"></p>
+<p align="center"><b>4.</b></p>
+	<p align="center"><img src="images/Mobile.PNG" width="600"></p>
 
 
 
@@ -75,32 +78,43 @@ The setup takes 5 minutes
 
 ![](images/CreateProject.PNG)
 
+<p align="center"><img src="images/CreateProject.PNG" width="600"></p>
+
+
 
 2. Name the Project "Melanoma Classification", and in the initial setup use git repo: https://github.com/hortonworks-sk/CDSW-Melanoma2.git , and hit the create button
 
 ![](images/CreateProject2.PNG)
+
+<p align="center"><img src="images/CreateProject2.PNG" width="600"></p>
 
 
 3. Launch a Python 3 workbench session
 
 ![](images/OpenWorkBench.PNG)
 
+<p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
 
 4. Navigate to the load-libraries.sh script, and run the script. This will load the libraries needed for the demo.
 
-![](images/LoadLibraries.PNG)
+![](images/OpenWorkBench.PNG)
 
+<p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
 
 5. Stop the Python 3 workbench session, and open another Python 3 session. This is required for some of the libraries to be available.
 
 ![](images/StopSession.PNG)
 
+<p align="center"><img src="images/StopSession.PNG" width="600"></p>
+
 
 6. Navigate to the start_tensorboard.py script, and run this.
 
 ![](images/StartTensorboard.PNG)
+
+<p align="center"><img src="images/StartTensorboard.PNG" width="600"></p>
 
 
 7. Check that the Tensorboard link is displaying in CDSW and that tensorboard is running, by clicking the tensorboard link
@@ -108,27 +122,39 @@ The setup takes 5 minutes
 
 ![](images/OpenTensorboard.PNG)
 
+<p align="center"><img src="images/OpenTensorboard.PNG" width="600"></p>
+
 
 8. Click on the tensorboard tabs for Scalars , Graph and the Histograms , to check that these are displaying correctly (each are shown in order below)
 
 ![](images/TensorboardGraphs.PNG)
 
+<p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
+
+
 ![](images/TensorboardScalars.PNG)
+
+<p align="center"><img src="images/TensorboardScalars.PNG" width="600"></p>
+
 
 ![](images/TensorboardHistograms.PNG)
 
 
+<p align="center"><img src="images/TensorboardHistograms.PNG" width="600"></p>
 
 
 9. Navigate to experiments and click run experiment
 
 ![](images/Experiments-List.PNG)
 
+<p align="center"><img src="images/Experiments-List.PNG" width="600"></p>
+
 
 10. Run experiments for the **_Inception3.py , and ** _VGG16.py**, scripts.  Use the python 3 kernel. No need to supply arguments for these. 
 
 ![](images/Experiments.PNG)
 
+<p align="center"><img src="images/Experiments.PNG" width="600"></p>
 
 
 
