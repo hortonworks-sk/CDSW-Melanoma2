@@ -1,5 +1,5 @@
 # Deep Learning In Medicine 
-## CDSW Demo 
+## Classifying Melanoma on Cloudera Data Science Workbench, and Cloudera Machine Learning   
 
 [skiaie@cloudera.com](mailto:skiaie@cloudera.com)
 
