@@ -31,26 +31,30 @@
 **1.**
 
 
-<p align="center"><b>1.</b><img src="images/ISIC.PNG" width="600"></p>
+<p align="center"><b>1.</b>
+	<img src="images/ISIC.PNG" width="600"></p>
 
-<h1> 
-
- <p align="center"> &downarrow; </p>
-</h1>
-
-**2.**
+<!-- downarrow -->
+<h1> <p align="center"> &downarrow; </p> </h1>
 
 <p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
 
-&downarrow;
+<!-- downarrow -->
+<h1> <p align="center"> &downarrow; </p> </h1>
 
 
-**3,4.**
 
 <img src="images/TensorboardHistograms.PNG" width="600">
 
+<p align="center"><b>3.</b>
+	<img src="images/TensorboardHistograms.PNG" width="600"></p>
 
-<img src="images/Mobile.PNG" width="600">
+<!-- downarrow -->
+<h1> <p align="center"> &downarrow; </p> </h1>
+
+
+<p align="center"><b>4.</b>
+	<img src="images/Mobile.PNG" width="600"></p>
 
 
 
