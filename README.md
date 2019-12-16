@@ -4,7 +4,7 @@
 
 
 
-### Demo Summary:
+### Use Case & Industry Applicability
 
 - Use Case:  Diagnosing Melanoma
 - Broader Healthcare Applicability:
@@ -20,7 +20,7 @@
 
 
 
-### Story
+### Summary
 
 1. Take open source images of skin lesions, and use those to build a classifier to detect malignant skin lesions
 2. Evaluate the performance of the model using TensorBoard, and matplotlib in CDSW
