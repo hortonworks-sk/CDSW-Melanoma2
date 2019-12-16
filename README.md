@@ -226,6 +226,5 @@ Having the following tabs open, in a Chrome window, may be useful (these are the
 
 6.  The experiments page
 
-<p><br><p>
 
 7.   http://[your-cdsw-host.and-domain.com]/projects/new/[your-username]/mel2/runs admin/mel2/runs
