@@ -28,7 +28,6 @@
 4. Use the mobile app to determine if a patient needs critical attention from a physician (Note: in the demo we use a model deployed on a mobile device, for simplicity.  I.e. inference happens on the edge, using a low latency, MobileNet model.  The more likely choice for this use case would be to perform classification in batch or perform the inference centrally, using a model with superior performance characteristics (measured by AUC).
 
 
-**1.**
 
 
 <p align="center"><b>1.</b> </p>
@@ -37,7 +36,7 @@
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
 
-**2.** 
+
 
 <p align="center"><b>2.</b></p>
 <p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
@@ -45,7 +44,6 @@
 <!-- downarrow -->
 <h1> <p align="center"> &downarrow; </p> </h1>
 
-**3.**
 
 <p align="center"><b>3.</b></p>
 	<p align="center"><img src="images/TensorboardHistograms.PNG" width="600"></p>
@@ -57,9 +55,9 @@
 <p align="center"><b>4.</b></p>
 	<p align="center"><img src="images/Mobile.PNG" width="600"></p>
 
+<p><br><br><p>
 
-
-The preliminary talk track videos are here:
+### The preliminary talk track videos are here:
 
 - [Deck Talk Track](https://rebrand.ly/mpvdv4)
 - [Demo Talk Track](https://rebrand.ly/4269co)
@@ -67,11 +65,14 @@ The preliminary talk track videos are here:
 
 The talk tracks here were made for brevity, and to focus on the specifics of this use case, so some of the boilerplate CML messaging is missing (e.g. some of the collaborative features).  The standard positioning statements can be added.
 
-The deck is here:
+### The deck is here:
 
 - [De](https://rebrand.ly/nrdz1m)[ck](https://rebrand.ly/nrdz1m)
 
-Demo Setup
+<p><br><br><p>
+
+
+### Demo Setup
 
 The setup takes 5 minutes
 
@@ -81,6 +82,7 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/CreateProject.PNG" width="600"></p>
 
+<p><br><br><p>
 
 
 2. Name the Project "Melanoma Classification", and in the initial setup use git repo: https://github.com/hortonworks-sk/CDSW-Melanoma2.git , and hit the create button
@@ -89,10 +91,12 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/CreateProject2.PNG" width="600"></p>
 
+<p><br><p>
+
 
 3. Launch a Python 3 workbench session
 
-
+<p><p>
 
 <p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
@@ -103,6 +107,7 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
+<p>
 
 5. Stop the Python 3 workbench session, and open another Python 3 session. This is required for some of the libraries to be available.
 
