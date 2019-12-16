@@ -31,14 +31,14 @@
 **1.**
 
 ![](images/ISIC.PNG)
-
-<p align="center"> # &downarrow; </p>
-
+<p align="center"> 
+ <p align="center"> <h1> # &downarrow; </h1></p>
+</p>
 **2.**
 
-
-<img src="images/TensorboardGraphs.PNG" width="600">
-
+<p align="center"> 
+ <img src="images/TensorboardGraphs.PNG" width="600">
+</p>
 
 &downarrow;
 
