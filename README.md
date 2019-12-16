@@ -69,7 +69,7 @@ The talk tracks here were made for brevity, and to focus on the specifics of thi
 
 - [De](https://rebrand.ly/nrdz1m)[ck](https://rebrand.ly/nrdz1m)
 
-<p><br><br><p>
+<p><br><p>
 
 
 ### Demo Setup
@@ -82,12 +82,12 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/CreateProject.PNG" width="600"></p>
 
-<p><br><br><p>
+<p><br><p>
 
 
 2. Name the Project "Melanoma Classification", and in the initial setup use git repo: https://github.com/hortonworks-sk/CDSW-Melanoma2.git , and hit the create button
 
-
+<p><br><p>
 
 <p align="center"><img src="images/CreateProject2.PNG" width="600"></p>
 
@@ -96,7 +96,7 @@ The setup takes 5 minutes
 
 3. Launch a Python 3 workbench session
 
-<p><p>
+<p><br><p>
 
 <p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
@@ -107,13 +107,14 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/OpenWorkBench.PNG" width="600"></p>
 
-<p>
+<p><br><p>
 
 5. Stop the Python 3 workbench session, and open another Python 3 session. This is required for some of the libraries to be available.
 
 
 <p align="center"><img src="images/StopSession.PNG" width="600"></p>
 
+<p><br><p>
 
 6. Navigate to the start_tensorboard.py script, and run this.
 
@@ -121,13 +122,13 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/StartTensorboard.PNG" width="600"></p>
 
+<p><br><p>
 
 7. Check that the Tensorboard link is displaying in CDSW and that tensorboard is running, by clicking the tensorboard link
 
-
-
-
 <p align="center"><img src="images/OpenTensorboard.PNG" width="600"></p>
+
+<p><br><p>
 
 
 8. Click on the tensorboard tabs for Scalars , Graph and the Histograms , to check that these are displaying correctly (each are shown in order below)
@@ -135,27 +136,30 @@ The setup takes 5 minutes
 
 <p align="center"><img src="images/TensorboardGraphs.PNG" width="600"></p>
 
-
+<p><br><p>
 
 
 <p align="center"><img src="images/TensorboardScalars.PNG" width="600"></p>
 
+<p><br><p>
 
 <p align="center"><img src="images/TensorboardHistograms.PNG" width="600"></p>
 
+<p><br><p>
 
 9. Navigate to experiments and click run experiment
 
 
 <p align="center"><img src="images/Experiments-List.PNG" width="600"></p>
 
+<p><br><p>
 
 10. Run experiments for the **_Inception3.py , and ** _VGG16.py**, scripts.  Use the python 3 kernel. No need to supply arguments for these. 
 
 
 <p align="center"><img src="images/Experiments.PNG" width="600"></p>
 
-
+<p><br><p>
 
 
 
