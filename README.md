@@ -28,10 +28,13 @@
 4. Use the mobile app to determine if a patient needs critical attention from a physician (Note: in the demo we use a model deployed on a mobile device, for simplicity.  I.e. inference happens on the edge, using a low latency, MobileNet model.  The more likely choice for this use case would be to perform classification in batch or perform the inference centrally, using a model with superior performance characteristics (measured by AUC).
 
 
-**1.**
 
 
-<p align="center"><img src="images/ISIC.PNG" width="600"></p>
+
+<p align="center"> **1.** 
+	<img src="images/ISIC.PNG" width="600">
+	<h1> &downarrow; </h1>
+</p>
 
 
 
