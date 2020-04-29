@@ -6,21 +6,6 @@
 <BR>
 
 
-### Use Case & Industry Applicability
-
-- Use Case:  Diagnosing Melanoma
-- Broader Healthcare Applicability:
-  - Disease diagnosis using medical images
-    - radiology (arteriography, mammography, radiomics)
-    - dermatology
-    - oncology
-
-- Broader Industry applicability
-  - Biotech
-  - Pharma
-  - Semiconductor Fabrication
-
-
 
 ### Summary
 
@@ -124,7 +109,9 @@ The setup takes 5 minutes
 
 <p><br><p>
 
-6. Navigate to the start_tensorboard.py script, and run this.
+6. Navigate to the start_tensorboard.py script, and run this.  
+
+If this step fails reach out on email/slack, and continue on with the rest of the steps.  Sometimes there are issues with package loads.  I can work with you on those. 
 
 <p><br><p>
 
@@ -230,3 +217,20 @@ Having the following tabs open, in a Chrome window, may be useful (these are the
 
 
 7.   http://[your-cdsw-host.and-domain.com]/projects/new/[your-username]/mel2/runs admin/mel2/runs
+
+
+
+### Use Case & Industry Applicability
+
+- Use Case:  Diagnosing Melanoma
+- Broader Healthcare Applicability:
+  - Disease diagnosis using medical images
+    - radiology (arteriography, mammography, radiomics)
+    - dermatology
+    - oncology
+
+- Broader Industry applicability
+  - Biotech
+  - Pharma
+  - Semiconductor Fabrication
+
